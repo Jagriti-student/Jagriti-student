@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hey, I'm Jagriti 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Jagriti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;DSA+%7C+Python+%7C+AI+%7C+Web+Development;Open+Source+Contributor+%F0%9F%8C%8D;Building+Ideas+Into+Real-World+Solutions+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;DSA+%7C+Python+%7C+Data+Analytics;AI+%7C+Web+Development+%7C+Open+Source;Turning+Ideas+Into+Real-World+Solutions+%E2%9C%A8" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://github.com/Jagriti-student">
-<img src="https://komarev.com/ghpvc/?username=Jagriti-student&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Jagriti-student&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 </a>
 
 <a href="https://github.com/Jagriti-student?tab=followers">
@@ -20,57 +20,187 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-🎓 **B.Tech Computer Science & Engineering** student at **GJUST**
+🎓 **B.Tech Computer Science & Engineering Student**
 
-💻 **Aspiring Software Development Engineer** passionate about building practical solutions
+💻 **Aspiring Software Development Engineer**
 
-🧩 Interested in **Data Structures & Algorithms and Problem Solving**
+🧩 Building strong foundations in **DSA & Problem Solving**
 
 🐍 Working with **Python** for programming and data-focused projects
 
-🤖 Exploring **AI-powered applications** and intelligent solutions
+📊 Exploring **Data Analytics with NumPy & Pandas**
 
-🌐 Building and experimenting with **Web Development**
+🤖 Building and experimenting with **AI-powered applications**
 
-🌍 Active in **Open Source, Hackathons & Developer Communities**
+🌐 Developing interactive **Web Applications**
 
-🚀 I believe in learning through **building, contributing and solving real problems**
+🌍 Contributing to **Open Source & Developer Communities**
+
+🏆 Exploring ideas through **Hackathons & Coding Challenges**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Technical Skills
 
 <div align="center">
 
-### 💻 Programming
+### 👩‍💻 Programming Languages
 
 <img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages"/>
 
+<br/><br/>
+
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development"/>
 
-### 📊 Data & AI
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data Tools"/>
+### 📊 Data Analytics
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data Analytics"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" alt="Tools"/>
+<br/><br/>
+
+### 🤖 AI & Intelligent Applications
+
+<img src="https://skillicons.dev/icons?i=python" alt="AI"/>
+
+<br/><br/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" alt="Tools and Platforms"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 What I Work With
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="200">
+
+### 🧩
+
+**DSA**
+
+Problem Solving
+Algorithms
+Competitive Programming
+
+</td>
+
+<td align="center" width="200">
+
+### 🐍
+
+**Python**
+
+Programming
+Data Processing
+Automation
+
+</td>
+
+<td align="center" width="200">
+
+### 📊
+
+**Data Analytics**
+
+NumPy
+Pandas
+Data Analysis
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖
+
+**AI**
+
+AI Applications
+Intelligent Solutions
+Experimentation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="200">
+
+### 🌐
+
+**Web Development**
+
+HTML
+CSS
+JavaScript
+React
+
+</td>
+
+<td align="center" width="200">
+
+### 🌍
+
+**Open Source**
+
+Contributions
+Collaboration
+Community
+
+</td>
+
+<td align="center" width="200">
+
+### 🏆
+
+**Hackathons**
+
+Rapid Prototyping
+Problem Solving
+Team Projects
+
+</td>
+
+<td align="center" width="200">
+
+### 🔧
+
+**Development**
+
+Git
+GitHub
+VS Code
+Firebase
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌟 Featured Projects
 
 ### 🗳️ Election Process Education
 
-An interactive educational platform designed to make the **election process easier to understand** through educational content, simulations, quizzes, misinformation guidance and an AI-powered assistant.
+An interactive platform designed to make the **election process easier to understand** through educational content, voting simulation, quizzes, misinformation guidance and an AI-powered assistant.
 
 **Tech:** React • TypeScript • Firebase • Gemini AI
 
@@ -78,7 +208,7 @@ An interactive educational platform designed to make the **election process easi
 
 ### 🚨 RoadSOS AI
 
-An AI-powered emergency assistance platform designed around **SOS support, location sharing, emergency assistance, voice interaction and AI-based severity analysis**.
+An AI-powered emergency assistance platform featuring **SOS support, location sharing, emergency assistance, voice interaction and AI-based severity analysis**.
 
 **Tech:** React • TypeScript • Firebase • AI
 
@@ -86,13 +216,13 @@ An AI-powered emergency assistance platform designed around **SOS support, locat
 
 ### 🛡️ SheShield
 
-A women's safety application focused on **SOS assistance, live location sharing, emergency alerts, fake-call support and evidence collection**.
+A safety-focused application featuring **SOS assistance, live location sharing, emergency alerts, fake-call support and evidence collection**.
 
 **Role:** Team Leader
 
 ---
 
-## 🌟 Open Source & Community
+# 🏆 Achievements & Open Source
 
 <div align="center">
 
@@ -107,9 +237,14 @@ A women's safety application focused on **SOS assistance, live location sharing,
 <img src="https://img.shields.io/badge/SheFi-Scholar%20S16-EC4899?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EliteHer-Top%20100-DB2777?style=for-the-badge"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/CodeChef-2★-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=for-the-badge"/>
+
 </div>
 
-### 🏆 Highlights
+<br/>
 
 * 🥇 **Top Contributor — IIT Kharagpur KWOC 2025**
 * 🌍 **Open Source Contributor**
@@ -122,73 +257,75 @@ A women's safety application focused on **SOS assistance, live location sharing,
 
 ---
 
-## 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jagriti-student&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jagriti-student&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagriti-student&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagriti-student&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🌱 Currently Exploring
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Jagriti-student&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+🧩 **Data Structures & Algorithms**
 
-</div>
+ • 
 
----
+🐍 **Python**
 
-## 🐍 Contribution Graph
+ • 
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jagriti-student/Jagriti-student/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-🧩 **Data Structures & Algorithms**   •  
-🐍 **Python**   •  
 📊 **Data Analytics**
 
-<br/>
+ • 
 
-🤖 **AI Applications**   •  
-🌐 **Web Development**   •  
+🤖 **AI Applications**
+
+<br/><br/>
+
+🌐 **Web Development**
+
+ • 
+
 🌍 **Open Source**
+
+ • 
+
+🏆 **Hackathons**
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Towards
+# 🎯 My Developer Journey
+
+<div align="center">
 
 ```text
-Building stronger problem-solving skills
-        ↓
-Creating practical software projects
-        ↓
-Exploring AI & data-driven applications
-        ↓
-Contributing to open source
-        ↓
-Growing into a strong Software Development Engineer
+        LEARN
+          ↓
+      PRACTICE
+          ↓
+       BUILD
+          ↓
+     CONTRIBUTE
+          ↓
+       IMPROVE
+          ↓
+        GROW 🚀
 ```
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 <div align="center">
 
@@ -202,14 +339,14 @@ Growing into a strong Software Development Engineer
 
 <br/><br/>
 
-### 💫 Build. Learn. Contribute. Grow.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Always+learning+%F0%9F%8C%B1;Always+building+%F0%9F%9A%80;Always+curious+%F0%9F%94%8D" alt="Closing animation"/>
+
+<br/><br/>
+
+### 💜 Build • Learn • Contribute • Grow
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" alt="Footer"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" alt="Footer"/>
