@@ -1,352 +1,418 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=180&section=header&text=Jagriti&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+# 👋 Hey, I'm **Jagriti**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=800&lines=B.Tech+CSE+Student+%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;DSA+%7C+Python+%7C+Data+Analytics;AI+%7C+Web+Development+%7C+Open+Source;Turning+Ideas+Into+Real-World+Solutions+%E2%9C%A8" alt="Typing animation"/>
+### `Aspiring SDE` · `B.Tech CSE @ GJUST`
 
-<br/>
+**Full-Stack Web Developer · UI/UX Designer · AI/ML Explorer**
 
-<a href="https://github.com/Jagriti-student">
-<img src="https://komarev.com/ghpvc/?username=Jagriti-student&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
-</a>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Scalable+Solutions;Turning+Ideas+into+Real+Projects;Exploring+AI%2FML+%26+Data+Analytics;Learning+DSA+%26+Software+Engineering;Open+Source+%7C+Hackathons+%7C+Innovation" alt="Typing SVG" />
+</p>
 
-<a href="https://github.com/Jagriti-student?tab=followers">
-<img src="https://img.shields.io/github/followers/Jagriti-student?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub followers"/>
-</a>
+<p>
+  <a href="https://github.com/Jagriti-student">
+    <img src="https://img.shields.io/badge/GitHub-Jagriti--student-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jagriti-goyal-2aa529346">
+    <img src="https://img.shields.io/badge/LinkedIn-Jagriti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
----
-
-## 👩‍💻 About Me
-
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
-
-🎓 **B.Tech Computer Science & Engineering Student**
-
-💻 **Aspiring Software Development Engineer**
-
-🧩 Building strong foundations in **DSA & Problem Solving**
-
-🐍 Working with **Python** for programming and data-focused projects
-
-📊 Exploring **Data Analytics with NumPy & Pandas**
-
-🤖 Building and experimenting with **AI-powered applications**
-
-🌐 Developing interactive **Web Applications**
-
-🌍 Contributing to **Open Source & Developer Communities**
-
-🏆 Exploring ideas through **Hackathons & Coding Challenges**
-
-<br clear="right"/>
-
----
-
-# 💻 Technical Skills
-
-<div align="center">
-
-### 👩‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python" alt="Programming Languages"/>
-
-<br/><br/>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web Development"/>
-
-<br/><br/>
-
-### 📊 Data Analytics
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas" alt="Data Analytics"/>
-
-<br/><br/>
-
-### 🤖 AI & Intelligent Applications
-
-<img src="https://skillicons.dev/icons?i=python" alt="AI"/>
-
-<br/><br/>
-
-### 🛠️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" alt="Tools and Platforms"/>
+> **Build. Learn. Solve. Scale.**
 
 </div>
 
 ---
 
-# 🚀 What I Work With
+# 🧭 About Me
 
-<div align="center">
+I'm a **Computer Science Engineering student at Guru Jambheshwar University of Science & Technology (GJUST)** with a strong interest in software engineering, problem solving, web development, data, and emerging AI technologies.
 
-<table>
-<tr>
+I'm currently growing as an **Aspiring SDE**, while exploring different areas of technology through projects, open-source contributions, hackathons, and continuous learning.
 
-<td align="center" width="200">
+### What drives me
 
-### 🧩
+* 💻 Building practical software and web applications
+* 🧠 Strengthening **DSA, OOPs, DBMS & core CS concepts**
+* 📊 Working with **Python, NumPy, Pandas, Matplotlib & Seaborn**
+* 🌐 Exploring **Full-Stack Web Development**
+* 🎨 Designing better **UI/UX experiences**
+* 🤖 Exploring **AI/ML and AI-powered applications**
+* 🌍 Contributing to **Open Source**
+* 🏆 Participating in **Hackathons & developer communities**
+* 🤝 Learning through **collaboration, leadership & teamwork**
 
-**DSA**
+---
 
-Problem Solving
-Algorithms
-Competitive Programming
+# ⚡ Engineering Snapshot
 
-</td>
+|                         |                                        |
+| ----------------------- | -------------------------------------- |
+| 🎓 **Education**        | B.Tech CSE — GJUST                     |
+| 📈 **Current SGPA**     | 8.41                                   |
+| 💻 **Primary Language** | Python                                 |
+| 🧠 **CS Focus**         | DSA · OOPs · DBMS                      |
+| 🌐 **Web Focus**        | HTML · CSS · JavaScript                |
+| 📊 **Data Focus**       | NumPy · Pandas · Matplotlib · Seaborn  |
+| 🎨 **Design Focus**     | UI/UX · Figma                          |
+| 🌍 **Community**        | Open Source · Hackathons               |
+| 🚀 **Career Goal**      | Aspiring Software Development Engineer |
 
-<td align="center" width="200">
+---
 
-### 🐍
+# 🛠️ Tech Stack
 
-**Python**
+## 💻 Programming Languages
 
-Programming
-Data Processing
-Automation
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
+</p>
 
-</td>
+**Python · C · C++**
 
-<td align="center" width="200">
+---
 
-### 📊
+## 🌐 Web Development
 
-**Data Analytics**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-NumPy
-Pandas
-Data Analysis
+**HTML · CSS · JavaScript · React**
 
-</td>
+> Currently building and strengthening my web-development skills through practical projects.
 
-<td align="center" width="200">
+---
 
-### 🤖
+## 📊 Data & Analytics
 
-**AI**
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-AI Applications
-Intelligent Solutions
-Experimentation
+**NumPy · Pandas · Matplotlib · Seaborn**
 
-</td>
+From data cleaning and transformation to visualization and exploratory analysis.
 
-</tr>
 
-<tr>
+---
 
-<td align="center" width="200">
+## 🔧 Tools & Platforms
 
-### 🌐
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" />
+</p>
 
-**Web Development**
+**Git · GitHub · VS Code · Firebase · Vercel**
 
-HTML
-CSS
-JavaScript
-React
+---
 
-</td>
+## 🎨 Design
 
-<td align="center" width="200">
+**UI/UX Design · Figma · User-Centered Thinking**
 
-### 🌍
+---
 
-**Open Source**
+## 🤝 Professional Skills
 
-Contributions
+```text
+Communication
+Leadership
+Team Management
 Collaboration
-Community
-
-</td>
-
-<td align="center" width="200">
-
-### 🏆
-
-**Hackathons**
-
-Rapid Prototyping
 Problem Solving
-Team Projects
-
-</td>
-
-<td align="center" width="200">
-
-### 🔧
-
-**Development**
-
-Git
-GitHub
-VS Code
-Firebase
-
-</td>
-
-</tr>
-</table>
-
-</div>
+Adaptability
+Open Source Collaboration
+```
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🗳️ Election Process Education
+## 🗳️ Election Process Education
 
-An interactive platform designed to make the **election process easier to understand** through educational content, voting simulation, quizzes, misinformation guidance and an AI-powered assistant.
+**An interactive platform designed to make the election process easier to understand.**
 
-**Tech:** React • TypeScript • Firebase • Gemini AI
+### Highlights
+
+* 🧭 Election process education
+* 🗳️ Interactive voting simulation
+* 🧠 Quiz-based learning
+* 🚨 Misinformation awareness
+* 🤖 AI-powered election education assistant
+
+**Tech:** React · TypeScript · Firebase · Gemini AI
+
+🔗 **Live:** https://election-system-495006.web.app
 
 ---
 
-### 🚨 RoadSOS AI
+## 🆘 RoadSOS AI
 
-An AI-powered emergency assistance platform featuring **SOS support, location sharing, emergency assistance, voice interaction and AI-based severity analysis**.
+**An AI-assisted emergency support platform focused on faster emergency response.**
 
-**Tech:** React • TypeScript • Firebase • AI
+### Highlights
+
+* 🚨 SOS assistance
+* 📍 Location sharing
+* 🎙️ Voice interaction
+* 🤖 AI-based severity analysis
+* 🛡️ Emergency support features
+
+**Tech:** React · TypeScript · Firebase · AI
 
 ---
 
-### 🛡️ SheShield
+## 🛡️ SheShield
 
-A safety-focused application featuring **SOS assistance, live location sharing, emergency alerts, fake-call support and evidence collection**.
+**A safety-focused application designed around emergency assistance and personal security.**
+
+### Highlights
+
+* 🚨 SOS functionality
+* 📍 Live location
+* 📞 Emergency alerts
+* 📱 Fake-call support
+* 📸 Evidence collection
 
 **Role:** Team Leader
 
----
-
-# 🏆 Achievements & Open Source
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IIT%20Kharagpur-KWoC%202025-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GSSoC-2026-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SSoC-2026-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NSoC-2026-6366F1?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/ECSoC-2026-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SheFi-Scholar%20S16-EC4899?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EliteHer-Top%20100-DB2777?style=for-the-badge"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/CodeChef-2★-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Codeforces-Newbie-1F8ACB?style=for-the-badge"/>
-
-</div>
-
-<br/>
-
-* 🥇 **Top Contributor — IIT Kharagpur KWOC 2025**
-* 🌍 **Open Source Contributor**
-* 💻 **GSSoC'26 • SSoC'26 • NSoC'26 • ECSoC'26**
-* 💜 **SheFi Scholar — Season 16**
-* 🎓 **She Codes Too × Coursera Scholarship**
-* 🏅 **EliteHer Finalist — Top 100**
-* ⭐ **CodeChef — 2★**
-* 🔥 **Codeforces — Newbie**
+**Focus:** Product thinking · Collaboration · Safety-focused development
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 From Data → Insight
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jagriti-student&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagriti-student&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🌱 Currently Exploring
-
-<div align="center">
-
-🧩 **Data Structures & Algorithms**
-
- • 
-
-🐍 **Python**
-
- • 
-
-📊 **Data Analytics**
-
- • 
-
-🤖 **AI Applications**
-
-<br/><br/>
-
-🌐 **Web Development**
-
- • 
-
-🌍 **Open Source**
-
- • 
-
-🏆 **Hackathons**
-
-</div>
-
----
-
-# 🎯 My Developer Journey
-
-<div align="center">
+I enjoy working with data and turning raw information into something understandable and useful.
 
 ```text
-        LEARN
-          ↓
-      PRACTICE
-          ↓
-       BUILD
-          ↓
-     CONTRIBUTE
-          ↓
-       IMPROVE
-          ↓
-        GROW 🚀
+          RAW DATA
+             │
+             ▼
+       🧹 DATA CLEANING
+             │
+             ▼
+       🔄 TRANSFORMATION
+             │
+             ▼
+       🔍 EXPLORATION
+             │
+             ▼
+        📊 VISUALIZATION
+             │
+             ▼
+          💡 INSIGHT
+             │
+             ▼
+       🚀 BETTER DECISIONS
 ```
 
-</div>
+### My current data toolkit
+
+**Python → NumPy → Pandas → Matplotlib → Seaborn**
+
+---
+
+# 🌍 Open Source Journey
+
+One of the most valuable parts of my development journey has been contributing to open source.
+
+### 🏆 IIT Kharagpur — KWOC 2025
+
+**Top Contributor**
+
+```text
+18 Pull Requests
+249 Commits
+Python
+NexumDB + AgentUnit
+```
+
+This experience helped me understand:
+
+* Working with real-world repositories
+* Reading unfamiliar codebases
+* Creating and managing Pull Requests
+* Collaborating through Git & GitHub
+* Writing and improving code
+* Contributing to projects beyond academic assignments
+
+### 🌱 Communities & Programs
+
+**GSSoC'26 · SSoC'26 · NSoC'26 · ECSoC'26 · SheFi Scholar S16**
+
+**She Codes Too × Coursera Scholarship · EliteHer · Hackathons & Developer Communities**
+
+---
+
+# 🏆 Achievements & Highlights
+
+| Achievement        | Highlight                                |
+| ------------------ | ---------------------------------------- |
+| 🥇 **KWOC 2025**   | Top Contributor                          |
+| 💻 **Open Source** | 18 PRs · 249 commits                     |
+| ⭐ **CodeChef**     | 2★                                       |
+| 🧩 **Codeforces**  | Newbie                                   |
+| 🏆 **EliteHer**    | Top 100 Finalist                         |
+| 🌍 **GSSoC**       | Contributor                              |
+| 🌱 **SSoC**        | Contributor                              |
+| 🌐 **NSoC**        | Contributor                              |
+| 💡 **ECSoC**       | Contributor                              |
+| 🎓 **SheFi**       | Scholar — Season 16                      |
+| 🚀 **Hackathons**  | Multiple project & innovation challenges |
+
+---
+
+# 🧩 How I Approach Problems
+
+```text
+       ┌───────────────┐
+       │ Understand    │
+       │ the Problem   │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │ Break It Into │
+       │ Smaller Parts │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │ Design a      │
+       │ Solution      │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │ Build & Test  │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │ Improve &     │
+       │ Iterate       │
+       └───────┬───────┘
+               ↓
+          🚀 SHIP IT
+```
+
+---
+
+# 🔭 Currently Exploring
+
+### 💻 Software Engineering
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Database Systems
+* Problem Solving
+
+### 🌐 Development
+
+* Full-Stack Web Development
+* Modern Web Applications
+* Backend Development
+* Scalable Application Architecture
+
+### 🤖 AI & Data
+
+* Machine Learning
+* AI-powered applications
+* Data Analytics
+* Practical GenAI use cases
+
+### 🎨 Product
+
+* UI/UX Design
+* User-centered interfaces
+* Better developer + user experiences
+
+---
+
+# 📚 My Learning Philosophy
+
+I don't want to learn technologies only for collecting them on a resume.
+
+I prefer:
+
+```text
+LEARN
+  ↓
+UNDERSTAND
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+BUILD AGAIN
+```
+
+> **The goal isn't to know every technology.
+> The goal is to become better at solving problems with technology.**
+
+---
+
+# 🎯 Career Direction
+
+I'm working towards becoming a strong **Software Development Engineer** with a foundation in:
+
+**DSA + Software Engineering + Web Development + Data + AI**
+
+My long-term goal is to build **scalable, useful and user-focused solutions** while continuously improving my engineering skills.
+
+---
+
+
+# 💡 What You'll Find Here
+
+```text
+📂 Projects
+├── 🌐 Web Applications
+├── 🤖 AI-powered Projects
+├── 📊 Data Analytics
+├── 🧠 DSA & Problem Solving
+├── 🧪 Learning Experiments
+└── 🌍 Open Source Contributions
+```
+
+My GitHub is a collection of things I'm **building, learning, experimenting with, and improving**.
 
 ---
 
 # 🤝 Let's Connect
 
+I'm always open to:
+
+* 💻 Collaborating on projects
+* 🌍 Open-source contributions
+* 🏆 Hackathons
+* 🤖 AI/ML ideas
+* 🌐 Development projects
+* 💡 Interesting technical discussions
+* 🤝 Learning with other developers
+
 <div align="center">
 
 <a href="https://github.com/Jagriti-student">
-<img src="https://img.shields.io/badge/GitHub-Jagriti--student-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/jagriti-2aa529346">
-<img src="https://img.shields.io/badge/LinkedIn-Jagriti-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/jagriti-goyal-2aa529346">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Always+learning+%F0%9F%8C%B1;Always+building+%F0%9F%9A%80;Always+curious+%F0%9F%94%8D" alt="Closing animation"/>
-
-<br/><br/>
-
-### 💜 Build • Learn • Contribute • Grow
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer" width="100%" alt="Footer"/>
+<div align="center">
+
+### `BUILD → LEARN → SOLVE → SCALE`
+
+**Thanks for visiting my profile! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
+</div>
